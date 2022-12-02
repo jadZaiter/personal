@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.container {
+  background-color: grey;
+  height: 400px;
+}
+.one {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  right: 100px;
+  bottom: 100px;
+}
+.two {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+}
+.three {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+}
